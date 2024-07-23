@@ -19,8 +19,3 @@ L'application utilise Spring AI côté backend et React côté frontend en utili
    git clone https://github.com/mehdiben01/chat-rag-react.git
    cd chat-rag-react
 
-## Installer les dépendances :
-npm install
-
-## Démarrer l'application :
-npm start
